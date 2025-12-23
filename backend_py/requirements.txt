@@ -1,0 +1,10 @@
+fastapi==0.109.2
+uvicorn[standard]==0.27.1
+asyncpg==0.29.0
+python-dotenv==1.0.1
+pydantic==2.6.1
+google-generativeai==0.3.2
+shapely==2.0.3
+pytest==8.0.0
+httpx
+python-multipart==0.27.0

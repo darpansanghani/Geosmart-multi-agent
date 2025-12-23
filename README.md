@@ -25,12 +25,12 @@ geosmart-multi-agent/
 │   ├── routers/            # FastAPI endpoints
 │   ├── db/                 # Database connection & setup
 │   ├── app.py              # Application entry point
-│   ├── requirements.txt    # Python dependencies
-│   └── .env                # Environment variables
+│   └── requirements.txt    # Python dependencies  
 ├── frontend/               # React Frontend
 │   ├── src/
 │   └── vite.config.js
 └── README.md               # This file
+└── .env                # Environment variables
 ```
 ---
 
